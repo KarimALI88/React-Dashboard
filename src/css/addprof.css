@@ -1,0 +1,12 @@
+.profForm{
+    margin-bottom: 100px;
+}
+::placeholder{
+    color: rgba(0, 0, 0, 0.425) !important;
+}
+
+.profInput{
+    background-color: rgba(1, 44, 58, 0.788) !important;
+    color: white !important;
+    width: 60% !important;
+}

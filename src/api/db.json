@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "karim ali",
+      "college": "computer science",
+      "GPA": 3.7
+    },
+    {
+      "id": "2",
+      "name": "mohamed hassan",
+      "college": "Law",
+      "GPA": 2.5
+    }
+  ],
+  "professors": [
+    {
+      "id": "1",
+      "name": "hassan ahmed",
+      "age": 35,
+      "course": "full-stack"
+    },
+    {
+      "id": "2",
+      "name": "ali essam",
+      "age": 29,
+      "course": "frontend"
+    },
+    {
+      "id": "5b52",
+      "name": "karim ali",
+      "age": "21",
+      "course": "frontend"
+    }
+  ],
+  "courses": [
+    {
+      "id": "1",
+      "courseName": "frontend",
+      "studentsInCourse": 50,
+      "professersForCourse": 3
+    },
+    {
+      "id": "2",
+      "courseName": "backend",
+      "studentsInCourse": 20,
+      "professersForCourse": 4
+    },
+    {
+      "id": "3",
+      "courseName": "full-stack",
+      "studentsInCourse": 30,
+      "professersForCourse": 6
+    }
+  ]
+}

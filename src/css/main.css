@@ -1,0 +1,39 @@
+.title{
+    text-align: center;
+    margin: 50px auto;
+}
+
+.addlink{
+    text-decoration: none;
+    color: white;
+}
+td{
+    font-size: 17px;
+    font-weight: 600;
+    color: rgb(83, 82, 82) !important;
+    text-transform: capitalize;
+}
+td button{
+    border: none;
+    outline: none;
+    font-size: 20px;
+    font-weight: 500;
+    margin-right: 20px;
+    background-color: transparent;
+}
+
+.add{
+    border: none;
+    outline: none;
+    font-size: 20px;
+    font-weight: 400;
+    padding: 10px 15px;
+    margin: 50px 20px;
+    background-color: rgb(1, 44, 58);
+    color: white;
+    border-radius: 10px;
+}
+
+.add:hover{
+    background-color: rgb(4, 32, 41);
+}

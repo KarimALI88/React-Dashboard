@@ -1,0 +1,41 @@
+.sidebar{
+    background-color: rgb(1, 44, 58);
+    padding: 25px 60px 25px 15px;
+    /* height: 100vh; */
+    position: fixed !important;
+    top: 0;
+    left: 0;
+    bottom: 0;
+}
+
+.sidebar h1{
+    color: white;
+    padding: 10px 0;
+    border-bottom: 1px solid gray;
+}
+
+ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+ul li{
+    margin:30px 0;
+    list-style: none;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-weight: 400;
+    
+    cursor: pointer;
+}
+
+.menuLink{
+    color: rgba(255, 255, 255, 0.61);
+    text-decoration: none;
+    
+}
+
+.menuLink:hover{
+    color: rgba(255, 255, 255, 0.842);
+}
